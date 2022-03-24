@@ -90,13 +90,13 @@ body {
 .logo {
     height: 75px;
     width: 150px;
-    background-image: url(/checkpoint/img/188px-Flag_of_Canada_\(Pantone\).svg.png);
+    background-image: url(../img/188px-Flag_of_Canada_\(Pantone\).svg.png);
     background-size: cover;
     border: solid 1px black;
 }
 
 .foto-cidade {
-    background-image: url(/checkpoint/img/567417.jpg);
+    background-image: url(../img/567417.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -218,7 +218,7 @@ body {
 }
 
 .linkedinimg {
-    background-image: url(/checkpoint/img/linkedin_black_logo_icon_147114.png);
+    background-image: url(../img/linkedin_black_logo_icon_147114.png);
     height: 60px;
     width: 60px;
     background-repeat: no-repeat;
@@ -226,7 +226,7 @@ body {
 }
 
 .githubimg {
-    background-image: url(/checkpoint/img/Octicons-mark-github.svg);
+    background-image: url(../img/Octicons-mark-github.svg);
     height: 60px;
     width: 60px;
     background-repeat: no-repeat;
